@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\bin\Debug\geçti-kaldı-hesaplayan-program.exe.config
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\bin\Debug\geçti-kaldı-hesaplayan-program.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\bin\Debug\geçti-kaldı-hesaplayan-program.pdb
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\obj\Debug\geçti-kaldı-hesaplayan-program.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\obj\Debug\geçti_kaldı_hesaplayan_program.Form1.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\obj\Debug\geçti_kaldı_hesaplayan_program.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\obj\Debug\geçti-kaldı-hesaplayan-program.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\obj\Debug\geçti-kaldı-hesaplayan-program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\obj\Debug\geçti-kaldı-hesaplayan-program.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\geçti-kaldı-hesaplayan-program\geçti-kaldı-hesaplayan-program\obj\Debug\geçti-kaldı-hesaplayan-program.pdb
